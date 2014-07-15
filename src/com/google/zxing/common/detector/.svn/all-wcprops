@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/detector
+END
+WhiteRectangleDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/detector/WhiteRectangleDetector.java
+END
+MonochromeRectangleDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/detector/MonochromeRectangleDetector.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/detector/MathUtils.java
+END

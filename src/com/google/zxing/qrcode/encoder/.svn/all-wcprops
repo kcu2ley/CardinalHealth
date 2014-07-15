@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/encoder
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/encoder/Encoder.java
+END
+MatrixUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/encoder/MatrixUtil.java
+END
+BlockPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/encoder/BlockPair.java
+END
+ByteMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/encoder/ByteMatrix.java
+END
+MaskUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/encoder/MaskUtil.java
+END
+QRCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/encoder/QRCode.java
+END

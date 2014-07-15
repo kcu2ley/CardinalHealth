@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/DecodedBitStreamParser.java
+END
+BitMatrixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/BitMatrixParser.java
+END
+DataBlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/DataBlock.java
+END
+Mode.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/Mode.java
+END
+QRCodeDecoderMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/QRCodeDecoderMetaData.java
+END
+DataMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/DataMask.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/Decoder.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/Version.java
+END
+ErrorCorrectionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java
+END
+FormatInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/decoder/FormatInformation.java
+END

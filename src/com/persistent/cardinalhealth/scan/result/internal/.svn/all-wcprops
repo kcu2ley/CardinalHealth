@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/internal
+END
+ProductResultProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/internal/ProductResultProcessor.java
+END
+TextResultProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/internal/TextResultProcessor.java
+END
+IsbnResultProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/internal/IsbnResultProcessor.java
+END
+UriResultProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/internal/UriResultProcessor.java
+END

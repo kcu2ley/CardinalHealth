@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/encoder
+END
+BarcodeMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/encoder/BarcodeMatrix.java
+END
+PDF417.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/encoder/PDF417.java
+END
+BarcodeRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/encoder/BarcodeRow.java
+END
+PDF417ErrorCorrection.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/encoder/PDF417ErrorCorrection.java
+END
+Dimensions.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/encoder/Dimensions.java
+END
+Compaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/encoder/Compaction.java
+END
+PDF417HighLevelEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/encoder/PDF417HighLevelEncoder.java
+END

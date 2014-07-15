@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated
+END
+HttpHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/HttpHelper.java
+END
+DecodeHintManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/DecodeHintManager.java
+END
+AmbientLightManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/AmbientLightManager.java
+END
+InactivityTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/InactivityTimer.java
+END
+Intents.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/Intents.java
+END
+BeepManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/BeepManager.java
+END
+FinishListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/FinishListener.java
+END
+DecodeFormatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/DecodeFormatManager.java
+END
+LocaleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/migrated/LocaleManager.java
+END

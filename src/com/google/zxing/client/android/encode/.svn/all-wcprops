@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/encode
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/encode/Formatter.java
+END
+MECARDContactEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/encode/MECARDContactEncoder.java
+END
+ContactEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/encode/ContactEncoder.java
+END
+VCardContactEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/encode/VCardContactEncoder.java
+END

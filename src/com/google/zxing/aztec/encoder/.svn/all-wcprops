@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/encoder
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/encoder/Encoder.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/encoder/State.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/encoder/Token.java
+END
+AztecCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/encoder/AztecCode.java
+END
+BinaryShiftToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/encoder/BinaryShiftToken.java
+END
+HighLevelEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/encoder/HighLevelEncoder.java
+END
+SimpleToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/encoder/SimpleToken.java
+END

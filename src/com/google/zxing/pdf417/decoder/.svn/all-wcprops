@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder
+END
+DecodedBitStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/DecodedBitStreamParser.java
+END
+BarcodeMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/BarcodeMetadata.java
+END
+DetectionResultRowIndicatorColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/DetectionResultRowIndicatorColumn.java
+END
+PDF417CodewordDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/PDF417CodewordDecoder.java
+END
+Codeword.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/Codeword.java
+END
+DetectionResultColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/DetectionResultColumn.java
+END
+BarcodeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/BarcodeValue.java
+END
+PDF417ScanningDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/PDF417ScanningDecoder.java
+END
+DetectionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/DetectionResult.java
+END
+BoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/pdf417/decoder/BoundingBox.java
+END

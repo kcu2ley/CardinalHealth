@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec
+END
+AztecDetectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/AztecDetectorResult.java
+END
+AztecWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/AztecWriter.java
+END
+AztecReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/aztec/AztecReader.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/share
+END
+LoadPackagesAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/share/LoadPackagesAsyncTask.java
+END
+BookmarkPickerActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/share/BookmarkPickerActivity.java
+END
+BookmarkAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/share/BookmarkAdapter.java
+END
+AppPickerActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/share/AppPickerActivity.java
+END
+AppInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/share/AppInfo.java
+END

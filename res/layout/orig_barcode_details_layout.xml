@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    >
+
+     <TextView
+            android:id="@+id/medication_no_text"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_gravity="top"
+        	android:layout_marginLeft="40px"
+         	android:layout_marginRight="40px"
+         	android:layout_marginTop="40px"
+        	android:orientation="horizontal"
+            android:textStyle="bold"
+            android:textColor="@android:color/white" />
+     
+     <TextView
+            android:id="@+id/pill_count_text"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_gravity="top"
+        	android:layout_marginLeft="40px"
+         	android:layout_marginRight="40px"
+         	android:layout_marginTop="40px"
+        	android:orientation="horizontal"
+            android:textStyle="bold"
+            android:textColor="@android:color/white" />
+
+     <RelativeLayout
+         android:layout_width="match_parent"
+         android:layout_height="34dp"
+         android:layout_gravity="bottom"
+         android:layout_marginBottom="40px"
+         android:layout_marginLeft="40px"
+         android:layout_marginRight="40px"
+         android:layout_marginTop="-12px" >
+
+         <TextView
+             android:id="@+id/barcode_details_foot_note"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentBottom="true"
+             android:layout_alignParentLeft="true"
+             android:orientation="horizontal"
+             android:textColor="@android:color/white"
+             android:textSize="28px"
+             android:textStyle="bold" />
+
+         <ImageView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:layout_alignParentBottom="true"
+             android:layout_alignParentRight="true"
+             android:src="@drawable/persistent_logo_0" />
+     </RelativeLayout>
+	
+</FrameLayout>

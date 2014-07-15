@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/supplement
+END
+URIResultInfoRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/supplement/URIResultInfoRetriever.java
+END
+ProductResultInfoRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/supplement/ProductResultInfoRetriever.java
+END
+AmazonInfoRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/supplement/AmazonInfoRetriever.java
+END
+TitleRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/supplement/TitleRetriever.java
+END
+BookResultInfoRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/supplement/BookResultInfoRetriever.java
+END
+SupplementalInfoRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/result/supplement/SupplementalInfoRetriever.java
+END

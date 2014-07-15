@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/detector
+END
+FinderPatternInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/detector/FinderPatternInfo.java
+END
+AlignmentPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/detector/AlignmentPatternFinder.java
+END
+FinderPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/detector/FinderPattern.java
+END
+Detector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/detector/Detector.java
+END
+AlignmentPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/detector/AlignmentPattern.java
+END
+FinderPatternFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/qrcode/detector/FinderPatternFinder.java
+END

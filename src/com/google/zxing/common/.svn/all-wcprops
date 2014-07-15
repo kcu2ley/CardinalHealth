@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common
+END
+BitSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/BitSource.java
+END
+BitMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/BitMatrix.java
+END
+DecoderResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/DecoderResult.java
+END
+GlobalHistogramBinarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/GlobalHistogramBinarizer.java
+END
+PerspectiveTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/PerspectiveTransform.java
+END
+HybridBinarizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/HybridBinarizer.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/StringUtils.java
+END
+DetectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/DetectorResult.java
+END
+CharacterSetECI.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/CharacterSetECI.java
+END
+GridSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/GridSampler.java
+END
+BitArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/BitArray.java
+END
+DefaultGridSampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/common/DefaultGridSampler.java
+END

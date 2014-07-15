@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/camera
+END
+AutoFocusManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/camera/AutoFocusManager.java
+END
+CameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/camera/CameraManager.java
+END
+CameraConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/camera/CameraConfigurationManager.java
+END
+PreviewCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/google/zxing/client/android/camera/PreviewCallback.java
+END

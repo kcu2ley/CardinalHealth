@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan
+END
+CaptureActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/CaptureActivity.java
+END
+BaseGlassActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/BaseGlassActivity.java
+END
+DecodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/DecodeHandler.java
+END
+DecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/DecodeThread.java
+END
+CaptureActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/CaptureActivityHandler.java
+END
+ResultsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Q4_Initiatives/!svn/ver/2/GoogleGlassApps/BankApps/BAClient/code/trunk/GlassBank/src/com/persistent/glassbank/scan/ResultsActivity.java
+END
